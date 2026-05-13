@@ -1,4 +1,4 @@
-## hey, I'm [seu nome] 👋
+## hey, I'm Knuc1klesxz 👋
 
 just a chill guy who likes computers, open source, and keeping things simple.  
 falo português e english — whichever works for you.
