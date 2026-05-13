@@ -8,10 +8,11 @@ falo português e english — whichever works for you.
 **my setup**
 
 | | |
+|---|---|
 | `os` | void linux |
 | `wm` | mangowm |
 | `editor` | nvim |
-| `priv` | doas (not sudo) |
+| `priv` | doas |
 
 ---
 
