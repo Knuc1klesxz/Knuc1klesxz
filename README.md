@@ -17,8 +17,7 @@ falo português e english — whichever works for you.
 ---
 
 **about**
-
-→ big fan of runit, xbps and things that actually work  
+ 
 → BR 🇧🇷 · en/pt speaker  
 → no bloat, no systemd, no drama  
 
