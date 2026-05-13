@@ -1,16 +1,27 @@
-## Hi there 👋
+## hey, I'm [seu nome] 👋
 
-<!--
-**Knuc1klesxz/Knuc1klesxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+just a chill guy who likes computers, open source, and keeping things simple.  
+falo português e english — whichever works for you.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**my setup**
+
+| | |
+|---|---|
+| `os` | void linux |
+| `wm` | mangowm |
+| `editor` | nvim |
+| `priv` | doas (not sudo) |
+
+---
+
+**about**
+
+→ big fan of runit, xbps and things that actually work  
+→ BR 🇧🇷 · en/pt speaker  
+→ no bloat, no systemd, no drama  
+
+---
+
+*btw I use void*
